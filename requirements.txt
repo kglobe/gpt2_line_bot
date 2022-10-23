@@ -1,0 +1,15 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.7.1+cpu
+fastapi
+uvicorn
+gunicorn
+transformers==4.23.1
+line-bot-sdk
+sklearn
+tqdm
+numpy
+pandas
+scipy==1.7.1
+opencc
+sqlalchemy
+tensorboard==2.10.1

@@ -1,0 +1,4 @@
+
+model_epoch40_50w/config.json
+model_epoch40_50w/pytorch_model.bin
+*.pyc
